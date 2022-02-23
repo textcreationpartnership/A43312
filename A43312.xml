@@ -1,0 +1,476 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Mataiobrachytēs tou biou] The brevity and vanity of man's life : discovered in a sermon preached at the funerals of Mrs. Ellen Hartcourt, youngest daughter to the virtuous and excellent Lady Cony of Stoke in Lincolnshire, who was interr'd in Saint Andrews-Holborn-Church, March 23, 1661, being married that day five weeks before / by Richard Henchman.</title>
+            <author>Henchman, Richard.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 71 KB of XML-encoded text transcribed from 23 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A43312</idno>
+            <idno type="STC">Wing H1428</idno>
+            <idno type="STC">ESTC R227539</idno>
+            <idno type="EEBO-CITATION">23659865</idno>
+            <idno type="OCLC">ocm 23659865</idno>
+            <idno type="VID">109556</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A43312)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 109556)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ;1702:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>[Mataiobrachytēs tou biou] The brevity and vanity of man's life : discovered in a sermon preached at the funerals of Mrs. Ellen Hartcourt, youngest daughter to the virtuous and excellent Lady Cony of Stoke in Lincolnshire, who was interr'd in Saint Andrews-Holborn-Church, March 23, 1661, being married that day five weeks before / by Richard Henchman.</title>
+                  <author>Henchman, Richard.</author>
+               </titleStmt>
+               <extent>[6], 44 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Tho. Roycroft for William Grantham ...</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCLXI [1661]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title printed in Greek characters.</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hartcourt, Ellen, d. 1661.</term>
+               <term>Bible. --  O.T. --  Psalms XXXIX, 5 --  Sermons.</term>
+               <term>Funeral sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:109556:1"/>
+            <p>BREVITY and VANITY OF Man's Life; <hi>DISCOVERED IN</hi> A SERMON, <hi>PREACHED</hi> At the FUNERALS of Mrs. <hi>ELLEN HARTCO<g ref="char:V">Ʋ</g>RT,</hi> Youngeſt Daughter to the Virtuous, and Ex<g ref="char:EOLhyphen"/>cellent Lady CONY of <hi>Stoke</hi> in <hi>Lincolnſhire,</hi> Who was interr'd in Saint <hi>Andrews-Holborn</hi>-Church, <hi>March</hi> 23. 1661. being married that Day five Weeks before:</p>
+            <p>By RICHARD HENCHMAN.</p>
+            <q>
+               <l>— Man being in honour abides not—</l>
+            </q>
+            <q>
+               <l>Pallida mors aquo pulſat pede Pauperum Tabernas, Regúmque Turres.</l> 
+               <bibl>
+                  <hi>Hor.</hi> Od. <hi>4.</hi> Hb. <hi>1.</hi>
+               </bibl>
+            </q>
+            <q>
+               <l>Bulla Paluſtris, Homo, ventus, ſtos pulveris, umbra:</l>
+               <l>Incipit, &amp; ceſſat; naſcuur, &amp; moritur.</l>
+            </q>
+            <q>
+               <l>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </l>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Tho. Royeroſt,</hi> for <hi>William Grantham</hi> at the <hi>Black Bear</hi> near the little <hi>North</hi>-door in St. <hi>Paul</hi>'s Church-yard. MDCLXI.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:109556:2"/>
+            <pb facs="tcp:109556:2" rendition="simple:additions"/>
+            <head>To the Virtuous, and my Ever-Honoured Lady, the Lady SARAH, Wife of Sir SUTTON CONY of STOKE in <hi>Lin<g ref="char:EOLhyphen"/>colnſhire,</hi> the Sorrowful Mother of this Deceaſed <hi>Lady.</hi>
+            </head>
+            <opener>
+               <salute>MADAM,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T was not my intention, when I Preached this Enſuing <hi>Sermon,</hi> that it ſhould ſpread further then the Pulpit; I thought indeed, being Your grief hindered You from the hearing of it, You might perchance requeſt a Copy of it for Your Cloſet, but never dreamed You would have been ſo Importunate with me for the Preſs. But if it may be any Allay of Your Sorrow for Your great Loſs, or of any uſe to the <hi>Publick,</hi> I ſhall not Re<g ref="char:EOLhyphen"/>pent of gratifying your deſires, though of it ſelf, the expreſsi<g ref="char:EOLhyphen"/>ons being ſo home-ſpan, and the Notions ſo common, I cannot
+<pb facs="tcp:109556:3"/>
+               <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> thy to come forth <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> when I ſeriouſly conſidered my many <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>lf, and Family, and the <hi>Comforts</hi> 
+               <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> I have <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> from You; ſince I firſt knew you, and Lived amongſt you; I thought I was bound to Exhibit a <hi>Teſtimonial</hi> of that <hi>Service,</hi> and <hi>Reſpect,</hi> which I dived unto You, and therefore had rather <hi>Hazard</hi> my own <hi>Reputation,</hi> if I may Advance the <hi>Edification</hi> of others, and adventure once more the <hi>Cenſures</hi> of the world, rather then have my own heart Cenſure me for <hi>Unthankfulneſs.</hi>
+            </p>
+            <p>I do therefore moſt humbly offer it into Your <hi>Ladyſhip's</hi> Hands; and if You think it <hi>Unworthy</hi> of that <hi>Honour,</hi> cast it at Your Feet; only let me Entreat You for Her <hi>ſake,</hi> who was the <hi>Occaſion</hi> of it, to caſt a favourable Ey upon it <hi>now,</hi> and <hi>then,</hi> and Graciouſly receive it into Your <hi>Pre<g ref="char:EOLhyphen"/>ſence,</hi> and it will Reckon it ſelf highly <hi>graced,</hi> and <hi>Digni<g ref="char:EOLhyphen"/>fyed,</hi> and not Ambitiouſly deſire any other <hi>Patronage.</hi>
+            </p>
+            <p>
+               <hi>MADAM,</hi> I know you are Senſible enough of the <hi>Af<g ref="char:EOLhyphen"/>flictions</hi> of Your <hi>Family,</hi> more Paticularly, of this great Loſs, You have lately ſuſtained; the God of <hi>Patience,</hi> and <hi>Conſolation</hi> grant You to Study a quiet <hi>Submiſſion</hi> un<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> and an Holy <hi>Improvement</hi> of this his Afflicting hand. If You do but <hi>Commune ſeriouſly with Your own Heart,</hi> You will ſee Cauſe enough for this Holy <hi>ſilence,</hi> and <hi>ſubmiſſion.</hi> How pretious ſo ever this <hi>Jewel</hi> was in. Your Ey (and indeed ſhe was <hi>very Pretious</hi>) yet you ſee, it <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of a <hi>Brittle</hi> Nature. All the <hi>Sons,</hi> and <hi>Daughters</hi> of
+<pb facs="tcp:109556:3"/>
+               <hi>Adam,</hi> are <hi>Mortal</hi> Creatures; and why ſhould You be trou<g ref="char:EOLhyphen"/>bled to ſee a <hi>Mortal</hi> Creature Dy.</p>
+            <p>To make complaint, that our <hi>Relations</hi> are dead is to complain, That they were <hi>Mortal;</hi> good <hi>MADAM,</hi> I beſeech You look upon the <hi>hand</hi> of God that hath done what is done, and this (if any thing) will <hi>quiet</hi> your Spirit, becauſe the <hi>ſtroke</hi> was given by God him ſelf: Remember, that a <hi>Dear</hi> Childe is far better in the boſom of <hi>Chriſt,</hi> then in the Boſom of the greateſt <hi>Earthly Monarch.</hi> Though You want her company, yet ſhe wants not yours you ſhall go to her, (if you dy as ſhe did) but ſhe can never come <hi>back</hi> to you: Though ſhe was an <hi>Obedient Childe</hi> to you, and did <hi>Honour</hi> her Parents whilſt ſhe lived; yet God did not break his Promiſe with her, becauſe he did not grant her a long life here, as long as he tranſlated her to life <hi>Eternal;</hi> therefore I would have you Senſible as you are indeed of God's <hi>Afflicting</hi> Providences; but I hope, you will not <hi>Murmure</hi> under them; for (as one ſaies wel) <hi>He, that ſees not God's hand in his ſevereſt Diſpenſations, diſowns his Sove<g ref="char:EOLhyphen"/>reignty, but he, or ſhe, that Repines, denies his Righ<g ref="char:EOLhyphen"/>teouſneſs.</hi>
+            </p>
+            <p>
+               <hi>MADAM</hi> I beſeech you Excuſe my Boldneſs, that I uſe this freedom with you: give me leave in three words to <hi>Counſel</hi> you, as well as <hi>Comfort</hi> you, and I ſhall trouble you no further.</p>
+            <p>Firſt, I beg, that you would <hi>Meditate</hi> much on your own End; you have lived a great many <hi>Years</hi> already, and 'tis
+<pb facs="tcp:109556:4"/>not Probable you can live ſo many more; Certainly Death comes near the <hi>Mother,</hi> when it lays hold upon the <hi>Childe;</hi> when your Dear <hi>Daughter</hi> departed this Life, She left you this <hi>Memento,</hi> that you muſt ſhortly follow.</p>
+            <p>Secondly, Confider how <hi>uncertain</hi> all wordly things are: <hi>Children,</hi> the beſt of <hi>worldly</hi> Comforts, yet they are but dy<g ref="char:EOLhyphen"/>ing Comforts: the loſs of <hi>worldy</hi> Contentments (Me thinks) ſhould make us love the world the leſs: God grant it may work this <hi>Effect</hi> in you.</p>
+            <p>Laſtly, Study more to make out Your <hi>Spititual</hi> Re<g ref="char:EOLhyphen"/>lation to <hi>Chriſt;</hi> this <hi>Relation</hi> can never be Diſſolved, though your <hi>Children,</hi> your <hi>Husband,</hi> your <hi>Friends,</hi> may be taken from you, yet this <hi>Union,</hi> this <hi>Relation</hi> cannot be Obliterated.</p>
+            <p>Now the good Lord of Heaven, and Earth, grant you an Aſsurance of this Relation before you go hence, and be ſeen no more. And thus (dear <hi>MADAM</hi>) begging your Par<g ref="char:EOLhyphen"/>don, I commend your ſelf, and all your excellent <hi>Relations,</hi> to the Protection, and Bleſsing of Almighty God; beſeech<g ref="char:EOLhyphen"/>ing him (it it be his bleſsed will) for a Continuing of the Re<g ref="char:EOLhyphen"/>maining Comforts to you here, and a full Conſummation of per<g ref="char:EOLhyphen"/>fect joy, and Happineſs, with themh ereafter: Which ſhall be the conſtant Prayers of,</p>
+            <closer>
+               <salute>MADAM,</salute>
+               <signed>
+                  <hi>Your Ladyſhips moſt obliged,<lb/> and perfectly Devoted Servants;<lb/> RICHARD HENCHMAN.</hi>
+               </signed>
+               <date>May 3<hi rend="sup">d</hi>. 1661.</date>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:109556:4"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>PSALME XXXIX. 5.</hi>
+                  </bibl>
+                  <p>Behold, thou haſt made my Days as a band-breadth, and mine Age is as nothing before thee; verily every man, at his beſt Eſtate, is altogether Vanity.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>HE <hi>Text</hi> (you ſee) is ſuitable to the <hi>Occaſion;</hi> It contains a ſad Story of man's <hi>Frailty, Mortality,</hi> and <hi>Vanity:</hi> A <hi>Meditation</hi> never untimely, but moſt ſeaſonable upon ſuch occaſions as theſe are.</p>
+            <p>The <hi>Text</hi> divides it into theſe two general Parts.</p>
+            <p>Firſt, The Brevity of man's Life, in thoſe words: <hi>Behold, thou hast made my days, as an hand-breadth.</hi> Se<g ref="char:EOLhyphen"/>condly, The Vanity of man's Life, in the laſt words: <hi>Verily, every man at his beſt Eſtate, is,</hi> &amp;c</p>
+            <p>In the Firſt there are theſe two things conſiderable of us; 1. An <hi>Excitation of Attention</hi> in that word, <hi>Behold:</hi> 2. An excellent <hi>Deſcription</hi> of man's ſudden Diſſolution: <hi>Thou haſt made my days as an hand-breadth.</hi>
+            </p>
+            <pb n="8" facs="tcp:109556:5"/>
+            <p> Again in the <hi>Deſcription</hi> there are two things alſo more worthy of our Notice;
+<list>
+                  <item>1. Who it is, that limits mans Life, it is God, <hi>Thou, O lord, haſt made;</hi> &amp;<hi>c.</hi>
+                  </item>
+                  <item>2. The Line, wherewith our Lives are meaſured: and that alſo it two fold.
+<list>
+                        <item>1. By is ſelf, if we conſider is in its own Frailty, ſo the juſt Meaſure of our Lives, 'tis an <hi>hand-breadth.</hi>
+                        </item>
+                        <item>2. If we conſider it by the Line of Eternity, ſo it is found to be as juſt nothing; Mine <hi>Again as nothing be<g ref="char:EOLhyphen"/>fore thee:</hi> that's the firſt general Part, The <hi>Brevity</hi> of mans Life.</item>
+                     </list>
+                  </item>
+               </list>
+            </p>
+            <p>In the ſecond alſo, which contains the <hi>Vanity</hi> of man's Life; There are two more conſiderable things ouf us.</p>
+            <p n="1">1. A Serious &amp; Solemn A <hi>Aſſeveration,</hi> to free us from Doubts of this Truth, in that word <hi>Vanily.</hi> 2. A Po<g ref="char:EOLhyphen"/>ſitive, and Peremptory Concluſion, and Propoſition, in the laſt words, That <hi>man, is at his beſt Since altogether Vanity;</hi> In which, there are alſo two other things ob<g ref="char:EOLhyphen"/>ſervable here:
+<list>
+                  <item>1. The <hi>
+                        <g ref="char:V">Ʋ</g>niverſality; Every man, or woman</hi> without Exception, none exempted.</item>
+                  <item>2. The <hi>Amplification</hi> from their Quality; Be he in Condition never ſo Excellent, in Place never ſo Emi<g ref="char:EOLhyphen"/>nent, in Fortune never ſo permanent. Yet there is no Exemption, no Limitation: For <hi>Every man in
+<pb n="9" facs="tcp:109556:5"/>his very beſt Estate is altogether Vanity.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Thus I have, as briefly as I could, given you an Ac<g ref="char:EOLhyphen"/>compt of the <hi>Parts</hi> of the Words; Give me leave to give you but a brief <hi>Explication</hi> of them; and I'le come to the <hi>Doctrinal Obſervations</hi> which Genuinely flow from them: And,</p>
+            <p>Firſt, <hi>Thou haſt made my Days;</hi> i. e. <hi>Tempus meum,</hi> or <hi>Vitam meam, my Life,</hi> or <hi>Age,</hi> or <hi>Time in the the World,</hi> So moſt Expoſitours render it.</p>
+            <p>Secondly, <hi>As on hand-breadth inſtar Pugilli,</hi> as a Span-length; this is put by way of Similitude, and Re<g ref="char:EOLhyphen"/>ſemblance. A ſhort time, no Doubt, that is inched out, or finger'd by the Span: other things have larger Di<g ref="char:EOLhyphen"/>menſions, they are lin'd out by the Fathom, or the Cu<g ref="char:EOLhyphen"/>bit, or the Foot at leaſt: Nothing, that I can read of, is meaſured by this frail Meaſure, but the <hi>Life</hi> of man; a thing ſo <hi>Fragil,</hi> and <hi>Momentary,</hi> that there was no<g ref="char:EOLhyphen"/>thing could ſo well expreſs it as a <hi>Span.</hi> A word ſo toſt, and tumbled by Expoſitors, that they are ſome<g ref="char:EOLhyphen"/>what driven to a <hi>Plunge</hi> to give the right Signification of it; Some tranſlate it, <hi>ad Menſuram Pugillorum,</hi> a little Handful, ſo <hi>Muſculus;</hi> Others, <hi>ad Menſuram quatuor Digitorum,</hi> the Breadth of four Fingers: <hi>Juni<g ref="char:EOLhyphen"/>us</hi> and <hi>Mollerus</hi> render it thus, <hi>Palmares poſuiſti dies,</hi> Thou haſt made my Days as a hand-breadth. The Word of the <hi>Septuagint</hi> is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> which the Vulgar Latin reads <hi>Menſurabiles,</hi> ſomething that is me ſure<g ref="char:EOLhyphen"/>able,
+<pb n="10" facs="tcp:109556:6"/>and therefore but ſhort. Though the Age of man in Scripture is ſometimes meaſur'd by <hi>Days,</hi> and <hi>Moneths,</hi> and <hi>Years</hi> yet theſe days are <hi>breves,</hi> quickly gone, theſe Moneths are Moneths of vanity <hi>Job</hi> vii. 3. theſe years are <hi>Anni pauciſsimi,</hi> few years, and ſhort, <hi>Iob</hi> viii. 9. <hi>We are but of yeſterday, and know nothing; our days upon Earth, are a ſhadow;</hi> and <hi>Jacob</hi> (though he liv'd an hundred and thirty years) yet he tells <hi>Pha. roab. That few and evil had the days of the years of his Life been;</hi> Gen. lxvii. 9. A <hi>Span-long</hi> ſtreightned to a Pre<g ref="char:EOLhyphen"/>ſcript time, a ſtrict meaſure this <hi>Span-long,</hi> which man can neither diminiſh, or dilate in his own Power, but he is pent up here by this narrow frail Incloſure, his Life's ſpan'd out, his Pillar's pitcht, his <hi>Non ultra</hi> limi<g ref="char:EOLhyphen"/>ted, his Circuit's bounded, he cannot exceed a Tittle, not the ſmalleſt Hair of his appointed time; as God ſays to the Sea, <hi>Hitherto you ſhall come, and no further,</hi> ſo he ſets Bars to mans Life, and ſays to every man, <hi>So long you ſhall live and no longer;</hi> and if we live as long as ever any man lived, yet tis but a <hi>Span-long,</hi> a few days (indeed) that are <hi>ſpan'd</hi> out; that's a Second.</p>
+            <p>Again Thirdly, When theſe days are gone: Lord what are we? Surely, even as nothing before thee: All this whole Pilgrimage on Earth is but as nothing, moſt Expoſitours read it, <hi>Ut nibil</hi> or <hi>tanqnam nibil. Muſ<g ref="char:EOLhyphen"/>tulus</hi> renders it, <hi>Eſt ac ſi non eſset,</hi> man's age is, as if it were not; a yeſterday, that is paſt; <hi>A thouſand Years
+<pb n="11" facs="tcp:109556:6"/>in thy Sight, are but as yeſterday when it is Paſt,</hi> Pſal. xc. 4. Had <hi>Moſes</hi> there reſembled it to a Day ſuch a day, as we enjoy; or to an Hour of this day, or to one Minute of this hour, we might have thought there had been ſome Stability in man's Life, but he reſem<g ref="char:EOLhyphen"/>bles it to a day ſpent, conſumed, and expired; to a yeſterday, that's a nothing, 'tis paſt and gone. Oh! how this intimates to us our Frailty, and Tranſito<g ref="char:EOLhyphen"/>rineſs; Alaſs! our Age is as nothing in reſpect of God's Infinitneſs; for if a thouſand years, Lord, to thee be but as yeſterday, that is paſt; then frail man, that is but a Reſemblance of that yeſterday, muſt be nothing to thy thouſand, thy thouſand thouſands, thy Myri<g ref="char:EOLhyphen"/>ads of thouſands thy Eternity, thy Everlaſtingneſs. <hi>Mine age is nothing before thee;</hi> that's a Third.</p>
+            <p>Fourthly, Why is it nothing? the laſt words will tell us, <hi>Becauſe man in his beſt Estate is altogether Vanity.</hi> See, not man in his Autumn, or Declination, but in his beſt Eſtate, in his moſt flouriſing Condition, in the Spring of his Proſperity, is <hi>Vanity;</hi> and not onely <hi>Vanity,</hi> but <hi>omnimoda Vanitas, altogether Vanity,</hi> not man in particular, but all mankind, is not onely vain, but <hi>Vanity</hi> I, and <hi>altogether Vanity: Verily every man in his beſt Eſtate,</hi> &amp;c verſ. o <hi>Surely every man walketh in a vain Shew and diſquieteth himſelf in vain. I beheld him,</hi> ſays <hi>David, and he was gone; I ſought him, and he was no where to be found;</hi> Pſal. xxxvii. 36. <hi>We go hence, as the Shadow,
+<pb n="12" facs="tcp:109556:7"/>that departs, we are toſsed to and fro, and driven away as the Graſhoppers, or Locuſts. Pſal.</hi> cix. 23. This Life is but a toſſing, and a driving away; We make a great deal a doe and a ſtir, but to little purpoſe; Death comes, and he ſhakes us off, he crops our Flowers, he wi<g ref="char:EOLhyphen"/>thers and drives us away; and then what are we? a little Duſt. And what's Duſt? a little light Stuff, a vain thing, every puff of Wind blows it away; ſo that we may well ſay with our Prophet here, <hi>Thou, O Lord, haſt made our days,</hi>&amp;c.</p>
+            <p>And thus I have run through the words by a brief <hi>Paraphraſe,</hi> or <hi>Expoſition.</hi> Come we to collect ſome <hi>Doctrinal Obſervations</hi> from them; and they onely ſhall be theſe two; Which comprehend the <hi>Marrow,</hi> and <hi>Quinteſsence</hi> of the whole Verſe: As,</p>
+            <p>First, <hi>Mans Life is ſhort: his Pilgrimage on Earth is of very ſhort Continuance, his glaſs is ſoon run out, his Date expired, his Term of Life quickly ended.</hi> That's the Firſt</p>
+            <p>Secondly, <hi>Man, frail man, in all his worldly Pomp, and glory, is a meer Vanity.</hi>
+            </p>
+            <p>I'le begin, firſt, with the Firſt. Take ſome Proof, <hi>Job.</hi> xiv. 1.2. <hi>Man that is born of a Woman, is of few days,</hi> &amp;c. See the <hi>Original,</hi> or <hi>Birth</hi> of man, ſpeaks the <hi>Frail<g ref="char:EOLhyphen"/>ty</hi> of man; can we expect any thing from frail, but frail? from her, who is of few days, and full of trou<g ref="char:EOLhyphen"/>ble, any thing but him, who is ſuch himſelſ? Man
+<pb n="13" facs="tcp:109556:7"/>being born of a woman, the weaker Veſſel, is a Veſ<g ref="char:EOLhyphen"/>ſel of <hi>Weakneſs,</hi> which, like the pureſt <hi>Chryſtal,</hi> breaks in pieces with the leaſt Knock, or Fall: Man breeds the Worm in his own Root, which ſmites the flour<g ref="char:EOLhyphen"/>iſhing Gourd of his Life: Nay, when the total Sum of his <hi>Pilgrimage</hi> is exactly caſt up, it amounts but to <hi>threeſcore Years and ten; and if, by reaſon of Strength they be fourſcore years, yet is their Strength Labour, and Sorrow, for it is ſoon cut off, and we flee away. Pſal.</hi> xc. 10.</p>
+            <p>Again, <hi>Job</hi> vii. 6. Man's Life is aſſimilated to a <hi>Wea<g ref="char:EOLhyphen"/>ver</hi>'s Shuttle: <hi>My days are ſwifter then a Weaver</hi>'s <hi>Shuttle.</hi> The <hi>Septuagint</hi> renders it thus; <hi>My days are nimbler then a Word, or Speech;</hi> now nothing moves faſter or paſſes away more lightly then a Word, a word is gone ſud<g ref="char:EOLhyphen"/>denly, hence the Similitude is uſed, Proverbially; <hi>We ſpend our days as a Tale that is told. Pſal.</hi> xc. 9. Swifter then a <hi>Weaver</hi> Shuttle, which is an inſtrument of a ve<g ref="char:EOLhyphen"/>ry ſudden Motion, which ſpends the Yarn with ſpeed, and what remains from the Web is cut off.</p>
+            <p>Again, at the 7 <hi>verſ.</hi> Man's Life is reſembled to the <hi>Wind,</hi> that bluſters for a day, and at night paſſes a<g ref="char:EOLhyphen"/>way, none knows whither: the Life of man is like <hi>Wind</hi> in two things: as,
+<list>
+                  <item>1. The Wind paſſes away ſpeedily, ſo does man's Life.</item>
+                  <item>2. The Wind when it is paſt returns no more: as you cannot ſtop the Wind, or change its Courſe; ſo
+<pb n="14" facs="tcp:109556:8"/>all the Powers in the World cannot recal a man's life, when it is gone. <hi>Pſal.</hi> lxxviii. 39. <hi>He remembers, that they were but fleſh; a Wind, that paſſes away.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Again man's Life is reſembled to a <hi>Bubble, Hoſ.</hi> x. 7. now a Bubble (ye know) riſes, and falls again, in one and the ſlef-ſame Moment; To a <hi>Vapour, Jam.</hi> iv. 14. which is diſperſt as ſoon as raiſed, as ſoon as it appears, it diſappears, 'tis (as one calls it) a little Spot of time between two <hi>Eternities,</hi> Saint <hi>Auguſtine</hi> doubts whether to call it a <hi>dying Life,</hi> or a <hi>living Death.</hi>
+            </p>
+            <p>Again, the <hi>Brevity</hi> of man's Life is ſet forth in Scri<g ref="char:EOLhyphen"/>pture by the <hi>Flower of the Field, Iſ.</hi> xl. 6, 7. by the <hi>Graſs,</hi> by a <hi>Shadow,</hi> by a <hi>Dream;</hi> 'tis compared to <hi>Pilgrims,</hi> and <hi>Travellers,</hi> who take up their Inn for a ſhort Time not to abide there for ever; <hi>Heb.</hi> xi 13. and <hi>Pſal.</hi> xxxix. <hi>I am a Stranger, and a Pilgrim,</hi> (ſayes <hi>David</hi>) <hi>as all my Fathers were.</hi> We have no abiding City, <hi>Job</hi> ix. 25. <hi>My days are ſwifter then a Post,</hi> whoſe pace is all upon the Speed, and Spur: ſo our days flee away, as the <hi>ſwift Ships,</hi> as the Eagle, that haſts to the Prey: <hi>Pliny</hi> mentions a certain Plant called <hi>Ephemeron,</hi> a Plant of one day's duration: ſuch a Plant is man, planted by the Rivers ſide to bring forth his fruit in the due ſeaſon of that Day; And he tells us alſo of a certain <hi>Worm,</hi> about the River of <hi>Hiſpany</hi> in <hi>Pontus,</hi> which lives but one day, and is gone, termed <hi>Hemerobion,</hi> ſuch a Worm is man; <hi>A Worm, and no man</hi> (as <hi>David</hi> ſaid <hi>Pſal.</hi>
+               <pb n="15" facs="tcp:109556:8"/>xxii, 6) born in the Morning, dead at Night; alive, and in perfect Health one Day, and dead the next.</p>
+            <p>Now man is a <hi>Worm</hi> in a fivefold Reſpect.</p>
+            <p n="1">1. Look upon his Original, and Conſtitution, he is from the Earth, as the Worm is.</p>
+            <p n="2">2. Look upon him in his Natural Eſtate and Con<g ref="char:EOLhyphen"/>dition, he lives upon the Earth, and earthly things, as Worms, do.</p>
+            <p n="3">3. He's a Worm; becauſe continually ſubject to danger, every Foot may cruſh him.</p>
+            <p n="4">4. He's a Worm, becauſe, as the Worm is ſubject to danger, ſo likewiſe unable to reſiſt, or make De<g ref="char:EOLhyphen"/>fence, the Worm is a naked Creature, and wears no Arms, neither offenſive, nor defenſive; ſuch an one is man, unable to defend himſelf, unleſs the Lord be a Shield, and a Defence to him round about.</p>
+            <p>Laſtly, man is a Worm, becauſe, he muſt ſhortly return to the Earth, where the Worms are houſed; He is going to Worms, as a Worm: As the Lord ſaid, <hi>Duſt thou art, and to Duſt thou ſhalt return,</hi> ſo we may ſay, A Worm thou art, and to Worms thou ſhalt re<g ref="char:EOLhyphen"/>turn: Thus you ſee man is a very poor contemptible thing, <hi>A Worm.</hi>
+            </p>
+            <p>Why then ſhould we envy any man? What, envy a Worm? What if another have a little more Glory, Riches, Beauty. Strength, Power, then thou haſt? what though he have a little more Knowledge, and
+<pb n="16" facs="tcp:109556:9"/>better gifted, then other, yet he is but a <hi>Worm</hi> ſtill: and why ſhould a <hi>Worm</hi> envy a <hi>Worm?</hi> what though ſome are <hi>Silk worms,</hi> a little better furniſhed, and richer then others in Mind, and Body; yet they are but <hi>Worms</hi> in <hi>Silk,</hi> and many who appear, ſo now a days, are but <hi>Glow<g ref="char:EOLhyphen"/>worms,</hi> which ſhine a little, but have no Conſiſtence.</p>
+            <p>Again; Seeing we are but <hi>Worms,</hi> let's take heed of vexing one another, why ſhould <hi>Worms</hi> riſe up againſt <hi>VVorms?</hi> Why ſhould <hi>VVorms</hi> deſtroy <hi>Worms</hi> cruelly, and bloodily? We are <hi>weak</hi> as <hi>Worms.</hi> Let us therefore rather engage that little Strength we have, for <hi>ſup<g ref="char:EOLhyphen"/>porting,</hi> not <hi>ruining</hi> one another.</p>
+            <p>But this you will ſay is a <hi>Digreſsion:</hi> To proceed therefore; Man's Life is nothing elſe but a little <hi>warm Breath,</hi> Tun'd in and out by the <hi>Nostrils,</hi> a narrow paſ<g ref="char:EOLhyphen"/>ſage, and ſoon ſtope. Methinks by all theſe <hi>Scripture Similitudes,</hi> which I have cited, we may be put in mind of our <hi>Frailty,</hi> and they may ſerve to check thoſe <hi>proud Deſires,</hi> which are in man of an Eternal abode, and laſting Happineſs of this Life.</p>
+            <p>You may ſee a <hi>Monument</hi> of man's <hi>Frailty</hi> ſet forth in all the <hi>Elements.</hi> Go to the <hi>Land,</hi> and there is a <hi>Poſt,</hi> ſee, <hi>Time's</hi> there upon the Spur: Go to the <hi>Sea,</hi> and there is a <hi>ſwift Ship:</hi> Go to the <hi>Air,</hi> and <hi>Time</hi>'s upon the <hi>VVing,</hi> in the <hi>ſwift flying Eagle;</hi> Go to the <hi>VVater,</hi> man's Life a <hi>Bubble,</hi> a <hi>Vapour.</hi> Twere to trifle away precious time to ſhew <hi>Reſemblances</hi> in other things:
+<pb n="17" facs="tcp:109556:9"/>I only produced theſe, to ſhew you the ſwift paſſage of man's Life. And therefore not to ſtay <hi>long</hi> upon that, which moves ſo <hi>ſwiftly;</hi> Give me but leave to ſhew you in what Reſpects <hi>Man's days</hi> are ſaid to be ſo ſhort as an <hi>hand-breadth,</hi> which may ſerve as the <hi>Grounds,</hi> and <hi>Reaſons</hi> of the <hi>Point,</hi> and ſo I'le apply it, that I may proceed to the next.</p>
+            <p>As,
+<list>
+                  <item>1. The Days of man are of ſhort Continuance, if we conſider them in themſelves; That's not long, which is no longer then an <hi>hands-breath:</hi> take it which way you will, in the largeſt extent, for a <hi>Span,</hi> or the whole ſpace between the top of the Thumb, and the little Finger ſtretched out; or in the leſſer extent for the Breadth only of the four Fingers; and indeed this is but a ſhort ſpace: that's the Firſt.</item>
+                  <item>2. The Days of man are of ſhort Continuance, if we conſider them Comparatively: and that two ways. 1. As man may be compared with man. 2. As man is compared with God.</item>
+               </list>
+            </p>
+            <p n="1">1. We collect the fewneſs of man's days by comp<g ref="char:EOLhyphen"/>aring him with man, under a twofold Conſiderati<g ref="char:EOLhyphen"/>on; 1. Of what Number the Days of man once were. 2. Of what Number the ſhall be.</p>
+            <p n="1">1. The Days of man are few, compared with what his days were before the Flood: then many men liv'd ſix, ſeven, eight, nine hundred, and ſome almoſt a thou<g ref="char:EOLhyphen"/>ſand Years; Now, if any man attain fourſcore, or an
+<pb n="18" facs="tcp:109556:10"/>hundred Years, he is wondrous old: and if any reach to an hundred and fourty, or fifty (as lately old <hi>Parr</hi> did) he is ſuch a Rarity, that he draws more eys to behold his wrinckled wither'd face, then any can with their moſt youthfull Beauty.</p>
+            <p>But then again, 2. As man's daus are few compared with what he liv'd before the Flood; ſo they are fewer compared with the days, which, he might have liv'd if he had not faln. The State of <hi>Innocency</hi> had in it a kind of <hi>Immortality: Sin</hi> was the Shortner of <hi>man</hi>'s <hi>days,</hi> 'tis the Birth of <hi>Sin</hi> in man, which is the <hi>Seed</hi> of <hi>Death.</hi>
+            </p>
+            <p>Again, 3. If the Days of man are of ſhort Continu<g ref="char:EOLhyphen"/>ance, compared with what they once were, or might have been upon the Earth. How ſhort, and few are they in compariſon of what they ſhall be, when he ſhall be raiſed out of the Earth? Then the Days of man's Life, within <hi>Heaven,</hi> or <hi>Hell,</hi> in <hi>Happineſs,</hi> or in <hi>Miſery,</hi> ſhall be as long as the <hi>Day</hi> of <hi>Eternity.</hi>
+            </p>
+            <p n="4">4. And laſtly; As the Days of man are of ſhort Continuance, compared with what he once had, or ſhall have; ſo they are feweſt of all compared with the days of God: ſo few, that as his days cannot be counted, becauſe they are ſo many; ſo ours can hard<g ref="char:EOLhyphen"/>ly be counted, becauſe they are ſo few: they are as <hi>no<g ref="char:EOLhyphen"/>thing</hi> before him. What is all <hi>Time</hi> compared with <hi>E<g ref="char:EOLhyphen"/>ternity?</hi> Oh! then, what a <hi>Nothing</hi> is the <hi>Age</hi> of <hi>man</hi> to <hi>Eternity? Be bold, Thou haſt made my days as;</hi> &amp;c.</p>
+            <pb n="19" facs="tcp:109556:10"/>
+            <p> And thus you have the <hi>Proof</hi> of the Point; That <hi>Man</hi>'s <hi>Pilgrimage on Earth is of Continuance:</hi> Give me leave but to draw forth ſome <hi>practical Improvements</hi> from it; and I ſhall paſs to the Second.</p>
+            <p>
+               <hi>Application.</hi>
+            </p>
+            <p>Firſt, Is it ſo, that <hi>Man</hi> (the moſt <hi>Excellent</hi> of <hi>Crea<g ref="char:EOLhyphen"/>tures</hi> here below) is of ſo ſhort Continuance? then this may teach us not to ſet our Hearts too much on any Earthly Comforts; as <hi>Children, Riches,</hi> &amp;c. 'Tis true, theſe things are pleaſing and delightful to us for a Time; as <hi>Jonah</hi>'s <hi>Groud</hi> was a great Refreſhment to him; but God prepared a <hi>Worm,</hi> which ſmote the <hi>Gourd,</hi> that it withered; ſo Children: the Parents take a great delight, and comfort in them for a time; but then God prepares a <hi>Worm, i. e.</hi> ſome Sickneſs, or Diſeaſe, which ſeiſes upon theſe <hi>Gourds,</hi> and makes them wither, and dy. <hi>Jon.</hi> iv. 10.</p>
+            <p>Many are troubled to know what that <hi>Gourd</hi> was of <hi>Jonah</hi>'s; ſome Expoſitours render it by <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, which is as much a <hi>Ivy:</hi> the word in the <hi>Hebrew</hi> is <hi>Kikaion, i. e.</hi> a kind of a little <hi>Shrub,</hi> or <hi>Tree,</hi> which had broad Leaves (like a <hi>Vine</hi>) and a very thick Shadow: without Doubt, 'twas a Plant, which quickly grew up, and was very ſhadowy, and ſo refreſhing, and comfortable.</p>
+            <p>The end, why God ſent this pretty <hi>Tree,</hi> twas to con<g ref="char:EOLhyphen"/>ver the head of <hi>Jonas,</hi> that is might be a ſhadow to com<g ref="char:EOLhyphen"/>fort
+<pb n="20" facs="tcp:109556:11"/>him in his <hi>Grieſ:</hi> thus God gives Children, to com<g ref="char:EOLhyphen"/>fort them for a time, but the would not have us ſet our <hi>Hearts</hi> upon ſuch brittle things, ſuch <hi>Shadows,</hi> dote upon ſuch <hi>Plants,</hi> not overlove them; if ſo, God can quickly ſend a <hi>Worm,</hi> which will blaſt their <hi>Hopes,</hi> which will daſh in pieces all their <hi>Comforts;</hi> that, which they took moſt delight in, ſhall <hi>periſh</hi> in a Moment: <hi>Alaſs!</hi> all outward Bleſſings are in themſelves <hi>fading,</hi> and <hi>periſhing: The Faſhion of this World paſses away;</hi> 1. Cor. vii. 31. The <hi>Scheme,</hi> the <hi>Beauty</hi> of the beſt earthly things paſs away, whilſt we <hi>enjoy</hi> them; they <hi>moulder</hi> away between our Hands, whilſt we are <hi>uſing</hi> them.</p>
+            <p>We ſee here in this <hi>Inſtance</hi> we are met together up<g ref="char:EOLhyphen"/>on, How quickly the <hi>Beauty</hi> of all worldly Bleſſings may be <hi>blasted:</hi> If God gives Commiſſion, he can <hi>blaſt</hi> all our <hi>Eſtates,</hi> and <hi>Comforts</hi> in a day, nay in a Moment; all Creatures are <hi>periſhing</hi> Subſtances, and <hi>ſwept</hi> away in a trice: Worldly things, the beſt, and greateſt of them, are but little, and for a little time; fine Flowers, but quickly cropt: <hi>Man,</hi> in his greateſt <hi>Enjoyment,</hi> is in as <hi>periſhing</hi> a Condition, as any thing he <hi>enjoys;</hi> We are always dying, and ſo is all, that we have; ours are dying <hi>Comforts,</hi> dying <hi>Riches</hi> dying <hi>Honours,</hi> dying <hi>Strength,</hi> dying <hi>Beauty,</hi> dying <hi>Children.</hi> Iſ. xl. 6. <hi>All fleſh is graſs, and the goodneſs thereof is, as the Flower of the field, that quickly withers, and decays.</hi> The beſt of earthly Excellencies may ſoon be taken away
+<pb n="21" facs="tcp:109556:11"/>from us: not only is <hi>Man</hi> of a brittle Conſtitution in Nature, but all the Perfections, which he ha's, on this ſide <hi>Grace,</hi> are brittle to: If the <hi>Scriptures</hi> were ſilent in this point, yet <hi>Experience</hi> would tell us, 'twas true.</p>
+            <p>Oh! Therefore <hi>Chriſtians</hi> ſet not your Affections on things here below: ſet them not upon <hi>Earthly Glo<g ref="char:EOLhyphen"/>ries,</hi> upon <hi>Earthly Comforts.</hi> 'Tis no wiſdom to hold that faſt in our <hi>Affections,</hi> which we cannot hold long in our <hi>Poſseſsions;</hi> or to love thoſe things much, which may ſpeedily be loſt. Oh! purſue <hi>Spirituals,</hi> and make ſure of Heavenly <hi>Comforts!</hi> theſe onely are durable: of theſe you can never be ſtrip'd of. The Soul, that is once thus <hi>cloathed,</hi> ſhall never be found <hi>naked:</hi> the Comforts of the <hi>Graces</hi> of <hi>Christ</hi> in <hi>Sanctification,</hi> theſe inward <hi>Comforts,</hi> theſe are unfading flowers; an <hi>In<g ref="char:EOLhyphen"/>heritance</hi> incorruptible, that fadeth not away. All worldly <hi>Comforts</hi> may quickly be daſht, and loſt, pre<g ref="char:EOLhyphen"/>pare therefore for <hi>Changes,</hi> and uſe this world as not <hi>abuſing</hi> it; <hi>i. e.</hi> uſe it <hi>well, prudently,</hi> and <hi>chearfully;</hi> be<g ref="char:EOLhyphen"/>come ſubmiſſive to the <hi>All-ruling Providence</hi> of <hi>God,</hi> when he takes away any of your outward <hi>Comforts,</hi> ſay, as <hi>Job</hi> did, <hi>Ch.</hi> i. 21. <hi>The Lord gave, and the Lord ha's taken away, and bleſſed be the name of the Lord.</hi> Tis very obſervable there; <hi>The Lord ha's given</hi> me theſe <hi>Com<g ref="char:EOLhyphen"/>forts</hi> not by my <hi>Strength,</hi> or my <hi>Diligence;</hi> by my <hi>Po<g ref="char:EOLhyphen"/>licy,</hi> or my <hi>Prudence,</hi> I have gotten ſuch an <hi>Estate,</hi> or ſuch <hi>Children;</hi> No, but <hi>The Lord ha's given;</hi> He is the
+<pb n="22" facs="tcp:109556:12"/>Fountain and Donor of all our earthly <hi>Comforts;</hi> They are Fruits of <hi>Gods</hi> Bounty; and therefore that, which he gives <hi>freely,</hi> we ſhould, when he calls for it, part with <hi>contentedly.</hi> If the <hi>Lord</hi> give us all we have me<g ref="char:EOLhyphen"/>thinks, this ſhould make us willing to give back ſom<g ref="char:EOLhyphen"/>thing unto the <hi>Lord</hi> again: If we were but throughly perſwaded of all our Receipts from him; we ſhould be more contented (when he commands) to give all again back to him. <hi>God</hi> may command theſe things from us by <hi>Authority;</hi> I, but he expects this from us as our <hi>Duty.</hi>
+            </p>
+            <p>In all our <hi>Afflictions</hi> let us look beyond the Crea<g ref="char:EOLhyphen"/>ture. In all our <hi>Loſſes</hi> we either feel, or fear, let our Hearts be carried up unto <hi>God,</hi> and ſay, <hi>The Lord ha's given,</hi> &amp;c. <hi>and the Lord ha's done this, and that.</hi> It came not by <hi>Chance,</hi> or <hi>Fortune;</hi> but it is the <hi>Lord,</hi> and let, him do what ſeemeth him good. Let us be dumb, and not open our mouths by any impatient Speeches, becauſe thou <hi>Lord</hi> doſt theſe things. <hi>God</hi> is worthy of all Bleſſing, and Praiſe, as well when he deprives us of <hi>Earthly bleſsings,</hi> as when he beſtows them on us. And therefore in every thing give thanks; and I muſt tell you alſo, that, if we thus bleſs <hi>God</hi> in our <hi>Afflicti<g ref="char:EOLhyphen"/>ons,</hi> our very <hi>Afflictions</hi> will prove <hi>Bleſsings</hi> to us.</p>
+            <p>Let us therefore, when <hi>God</hi> takes away ſuch bleſſings from us; Bleſs <hi>God</hi> for it, and ſubmit our Wills to his Will, and pray, that he would Sanctifie theſe things
+<pb n="23" facs="tcp:109556:12"/>to us, and then all things ſhall prove beſt for us. Set not your Hearts too much on any Earthly <hi>Comforts:</hi> I have been the longer upon this <hi>Uſe;</hi> Becauſe tis <hi>ſo pertinent</hi> to the <hi>occaſion.</hi>
+            </p>
+            <p>Seeing our <hi>Days</hi> are of ſuch ſhort <hi>Continuance,</hi> let us be Admoniſhed to live all our Days: ſome loſe many out of a few, and live not one of their few days: we live no more of our time, then we ſpend well. An <hi>Heathen</hi> could ſay; <hi>He liv'd no day without a line;</hi> i. e. <hi>He did ſomething Remarkable every day.</hi> What a ſhame is it then, that a <hi>Chriſtian</hi> ſhould live a day without a <hi>Line,</hi> do nothing in it worth the doing?</p>
+            <p>Secondly, Is a <hi>man's</hi> life ſo ſhort, but an <hi>hand-breadth,</hi> as a thing of nothing, then they are in a great Errour, who place their chiefeſt <hi>Happineſs</hi> in this <hi>life.</hi> 'Tis true, <hi>life</hi> is ſweet, and Dear unto us: I, but there is a better <hi>life,</hi> which is Dearer, and <hi>Chriſt</hi> is dear<g ref="char:EOLhyphen"/>eſt of all unto us; for when Saint <hi>Paul</hi> ſaid, <hi>He was not only ready to be bound, but alſo to dy at Hieruſalem for the Name of the Lord Jeſus;</hi> Acts xxi. 13. if to live on Earth were our beſt being; in vain were the <hi>Apoſtle</hi>'s deſire of <hi>Diſſolution,</hi> if to dy, and to live with <hi>Chriſt</hi> were not beſt of all. <hi>Phil.</hi> i. 23.</p>
+            <p>Thirdly, Seeing this time of our <hi>life</hi> is ſhort, and haſtens out of our hands; Let us make haſt to lay hold upon Eternal <hi>Life:</hi> all our days are but few, and
+<pb n="24" facs="tcp:109556:13"/>every man living hath liv'd a few days already; poſ<g ref="char:EOLhyphen"/>ſibly thy few days paſt are all, that thou ſhalt paſs. Say not therefore, that thou wilt repent to Morrow; <hi>Boaſt not thy ſelf of to morrow</hi> (ſays <hi>Solomon,</hi> Prov. xxvii. 1) <hi>for thou knowest not what a day may bring forth.</hi> Poſſibly this Day may bring forth thy <hi>Death;</hi> and then how ſhall to morrow bring forth thy <hi>Repentance?</hi> We ſay of ſome men, that they do much in a little time, and tru<g ref="char:EOLhyphen"/>ly how much ſoever any man ha's to doe, I am ſure he ha's but a little time to do it in: and indeed theſe few days are all the working days, that ever we ſhall have. Let this be a <hi>Spur</hi> to <hi>Diligence,</hi> and to <hi>Duty. Let us now work out our own Salvation,</hi> &amp;c. for the <hi>Night of Death</hi> will ſhortly come upon us, and then none of us can work any more. In <hi>Heaven</hi> there is nothing but <hi>Reſt,</hi> and in <hi>Hell,</hi> though there be no <hi>Reſt,</hi> yet there is no <hi>Letbour:</hi> In <hi>Hell</hi> there is nothing but <hi>Wages;</hi> and in <hi>Heaven</hi> there is nothign but <hi>Reward.</hi> Our whole work lies in this ſhort time we live. That's third Inference.</p>
+            <p>Fourthly, Seeing this time of our <hi>Life</hi> is of ſo ſhort Continuance: How vainly do men reckon upon ma<g ref="char:EOLhyphen"/>ny Years yet to come; when as their whole <hi>Time,</hi> paſt, preſent, and to come, can make but a few Days, an <hi>hand-breadth?</hi> See how the <hi>Apoſtle</hi> rebukes ſuch; <hi>Jam.</hi> iv. 13, 14. <hi>Vide locum.</hi> So alſo the Apoſtle <hi>Paul</hi> pleads down a wordly <hi>Spirit</hi> with this Argument; 1 <hi>Cor.</hi> vii. 29, 30. <hi>Vide locum.</hi> Now, methinks this Conſideration ſhould
+<pb n="25" facs="tcp:109556:13"/>make us take up, or draw in our <hi>Affections</hi> about world<g ref="char:EOLhyphen"/>ly thing; becauſe our time in this <hi>World</hi> is ſhort.</p>
+            <p>Fifthly, This ſhould make us patient in all our <hi>Af<g ref="char:EOLhyphen"/>flictions:</hi> all our days are but few, and therefore out days of <hi>Sorrow</hi> cannot be many. Let us not reckon the <hi>Suffering</hi> of this preſent time to be Worthy, <hi>&amp;c. A Little Time, and he, that ſhall come, will come, and will not tarry.</hi> For, <hi>Our light Affiction, which is but a Moment, works for us a far more exceeding, and Eternal Weight of glory,</hi> 1 Cor. iv. 14.</p>
+            <p>Laſtly, Seeing <hi>Man</hi>'s <hi>life</hi> is <hi>ſhort;</hi> let this teach us not to <hi>truſt</hi> in <hi>man. Ceaſe from man, whoſe breath is in his Noſtrils;</hi> place not the <hi>hope</hi> of your <hi>life</hi> in man's <hi>Protection,</hi> but in <hi>God</hi>'s, <hi>in whom we live, move, and have our being.</hi> Be not <hi>ſolicitous</hi> for the ſhortneſs of thy <hi>life;</hi> but uſe it as an Inducement to live <hi>well,</hi> and to <hi>walk with God;</hi> to make thy <hi>Election ſure,</hi> and <hi>certain,</hi> whilſt it is called to day. The Benefit of <hi>life</hi> is not in the length of it, but in the pious uſe of it. He ſome<g ref="char:EOLhyphen"/>times lives the leaſt, that lives the longeſt: and he all<g ref="char:EOLhyphen"/>waies lives the longeſt, that lives the beſt. When therefore thou goeſt out of thy doors, ſay to thy ſelf, <hi>Perhaps, I ſhall never Return home alive.</hi> When thou ri<g ref="char:EOLhyphen"/>ſeſt from thy Bed, <hi>Perhaps, I ſhall never ſleep more.</hi> When thou lyeſt down to Reſt, <hi>Perhaps, I ſhall never wake more:</hi> this will add wings to thy deſires, to ſpend thy ſhort time well. In a word, and ſo to ſhut up this
+<pb n="26" facs="tcp:109556:14"/>firſt <hi>point,</hi> from the firſt <hi>General;</hi> Let the certain Knowledg of thy life's <hi>uncertainty,</hi> and <hi>Brevity,</hi> per<g ref="char:EOLhyphen"/>ſwade thee, like a wiſe <hi>Steward,</hi> to perfect thy <hi>accounts,</hi> and ſet thy <hi>Houſe</hi> in <hi>order,</hi> for ſhortly thou muſt <hi>dy,</hi> and not <hi>live,</hi> Iſa. xxxviii. 1. <hi>Behold, thou hast made my days, as an hand-breadth, mine,</hi> &amp;c. Man's life here is of <hi>ſhort Continuance.</hi> That's the firſt point, the <hi>Brevity</hi> of man's life.</p>
+            <p>Come we now to the ſecond <hi>General</hi> part, and that Demonſtrates <hi>Man</hi>'s <hi>Vanity</hi> in the laſt words: <hi>Verily, every man at his beſt Eſtate,</hi> &amp;c.</p>
+            <p>The <hi>Point</hi> Obſervable from hence is this; That <hi>Man,</hi> frail <hi>Man,</hi> in all his wordly <hi>Pomp,</hi> and <hi>Glory,</hi> is a meer <hi>Vanity. Job</hi> ſays, <hi>Chap</hi> xi. 11. The Lord knows <hi>Vain man,</hi> or he knows the <hi>Vanity</hi> of <hi>man;</hi> he knows that <hi>man</hi> is naturally full of <hi>Vanity,</hi> very full of <hi>Vanity.</hi> It is an <hi>Hebraiſme</hi> that, Noting, how full of <hi>Vanity</hi> man is, who is called a <hi>Man</hi> of <hi>Vanity,</hi> and how falſe he is, who is called a <hi>Man</hi> of <hi>Falſhood,</hi> Ge<g ref="char:EOLhyphen"/>nerally man has,
+<list>
+                  <item>1. Much <hi>Falſneſs</hi> of <hi>Spirit:</hi> 2. Much <hi>Raſhneſs</hi> of <hi>Spirit;</hi> and he has alſo a double <hi>Raſhneſs:</hi> 1. <hi>Raſhneſs</hi> in not conſidering his <hi>End?</hi> Deut. xxxii. 29. <hi>Oh! that they were wiſe, that they would conſider their latter End! Wiſ<g ref="char:EOLhyphen"/>dom</hi> looks to what is coming upon us; <hi>Folly</hi> ſtayes up<g ref="char:EOLhyphen"/>on what is preſent with us.</item>
+                  <item>2. <hi>Raſhneſs,</hi> in not conſidering the <hi>way,</hi> or <hi>means,</hi>
+                     <pb n="27" facs="tcp:109556:14"/>that lead unto a good <hi>End;</hi> many men ſee ſuch an <hi>End;</hi> I, but he goes a way quite contrary: he ſets up a Reſolution for <hi>Heaven,</hi> that's his <hi>End,</hi> but he walks <hi>Hell</hi>-ward. This alſo is <hi>Vanity;</hi> and unleſs timely foreſeen, and turn'd from, will prove the greateſt Vex<g ref="char:EOLhyphen"/>ation of Spirit in the End.</item>
+               </list>
+            </p>
+            <p>Now you muſt know the <hi>Scripture</hi> uſes this word <hi>Vanity,</hi> under a fourfold Notion, and in every one of them, <hi>Man</hi> is included.</p>
+            <p>Firſt <hi>Emptineſs</hi> comes under the Notion of <hi>Vanity;</hi> Pſal. ii. 1. <hi>Why do the Heathen rage, and the People ima<g ref="char:EOLhyphen"/>gine a vain thing?</hi> i. e. An <hi>Empty</hi> thing, a thing, that ſhall take no Effect: ſo <hi>Vain Man</hi> is an <hi>Empty Man;</hi> he has nothing in him, but that, which is good for nothing; and therefore ſaith Saint <hi>James,</hi> Chap ii. 20. <hi>Wilt thou know, Oh vain Man! that Faith without works is Dead?</hi> As if he had ſaid, thou <hi>Empty Man,</hi> thou, that haſt but a Boaſt of <hi>Faith,</hi> thou, whoſe <hi>Faith</hi> is fill'd up onely with good <hi>Words,</hi> not good <hi>Works, Wilt thou know</hi> (thou ſhalt whither thou wilt, or no) <hi>that thy Faith is Dead?</hi>
+            </p>
+            <p>When <hi>Man</hi> fell from <hi>God;</hi> the <hi>Devil</hi> emptyed him of that, which he was full off, the Image of <hi>God</hi> in <hi>
+                  <g ref="char:V">Ʋ</g>prightneſs;</hi> and fill'd him with that, which was but <hi>Emptineſs,</hi> his own Image in <hi>Unrighteouſneſs:</hi> Na<g ref="char:EOLhyphen"/>turally he's a <hi>vain empty Man:</hi> The Heart of man, at the beſt of Nature, is but like a Child's Pocket full
+<pb n="28" facs="tcp:109556:15"/>of Stones, and Traſh, and how empty is that Heart, which is thus filld? <hi>Vain Man</hi> is an <hi>Empty Man;</hi> un<g ref="char:EOLhyphen"/>leſs to be full of vain things (which are worſe, then <hi>Emptyneſs.</hi>) may go for <hi>Fullneſs.</hi>
+            </p>
+            <p>Again, Secondly, That is <hi>Vain,</hi> which is <hi>Unprofita<g ref="char:EOLhyphen"/>ble;</hi> and thus it is expounded, <hi>Mal.</hi> iii. 14. <hi>Ye have ſaid, it is vain to ſerve God, and what Profit is it that we keep his Ordinances?</hi> And <hi>Eccleſ</hi> i. 3. having pronoun<g ref="char:EOLhyphen"/>ced all things to be <hi>Vanity,</hi> he ſubjoins, <hi>What Profit has a man for all the Labour, which he takes under the Sun?</hi> So man is <hi>Vain</hi> in this Sence; what greater <hi>Vanity,</hi> then to let go the <hi>Subſtance</hi> for a <hi>Shadow? Heaven</hi> for this <hi>World? What will it profit a man to gain the world, and to loſe,</hi> &amp;c. That's a Second Notion.</p>
+            <p>Thirdly, <hi>Vain man: i. e.</hi> Deceitful man, <hi>Homines falſitatis;</hi> ſo <hi>Cajetane:</hi> and <hi>Pſal.</hi> lxii. 9. <hi>Surely men of low degree are Vanity, and men of high degree are a Lye.</hi> To be layd in the Balance, they are altogether ligh<g ref="char:EOLhyphen"/>ter then <hi>Vanity. Virgil</hi> cals him <hi>Vanum mendacemque hominem;</hi> vain, and deceitful man: and <hi>Pſal.</hi> iv. 2. <hi>How long will ye love vanity, and ſeek after leaſing?</hi> Va<g ref="char:EOLhyphen"/>nity ſeeks after Vanity: that's a third <hi>Notion.</hi>
+            </p>
+            <p>Fourthly, and laſtly, <hi>Vain man,</hi> i. e. <hi>Tranſitory man;</hi> man is <hi>vanity,</hi> becauſe he is frail, and tranſitory, that is ſaid to be <hi>vain,</hi> which vaniſhes: that man vaniſhes away; ſee a plain place of Scripture, <hi>Pſal.</hi> cxliiii. 4. <hi>Man is like to Vanity, his days are as a Shadow, which
+<pb n="29" facs="tcp:109556:15"/>paſſes away.</hi> Here is Man's Picture drawn to the life, like to <hi>Vanity;</hi> a poor tranſitory thing, here now, and gon anon: He is not only <hi>empty, unprofitable,</hi> and <hi>de<g ref="char:EOLhyphen"/>ceitful,</hi> but very <hi>frail,</hi> and <hi>tranſitory.</hi>
+            </p>
+            <p>Well now (as the <hi>Wiſeman</hi> ſaid, <hi>Eccleſiaſt,</hi> xi. 8.) Suppoſe you live many years, to fourſcore, or an hun<g ref="char:EOLhyphen"/>dred (which is very improbable) 'tis an hundred to one, you do not: Yet ſuppoſe it; let me tell you, that ſo many years are a <hi>ſhadow,</hi> as a <hi>Tale,</hi> that is <hi>told.</hi> Verily, every Man, old, and young, rich and poor, is a <hi>Vanity;</hi> In the morning, they are like <hi>Graſs,</hi> flou<g ref="char:EOLhyphen"/>riſh a little, making a little ſhew for a time; but in the Evening they are <hi>Cut down,</hi> and <hi>Withered</hi> away.</p>
+            <p>But yet further; ſuppoſe a <hi>man</hi> live many daies, to the Utmoſt <hi>Extent</hi> of <hi>Nature,</hi> and rejoyce in all thoſe his days (which is in a manner impoſſible, yet I ſay ſuppoſe it) that his Head never ached all his Days; He knew not what Sorrow, or Sickneſs meant; he has what his Heart can deſire; yet I muſt tell him, that all is but <hi>Vanity,</hi> when all is done: <hi>What Pro<g ref="char:EOLhyphen"/>fit has a Man of all his Labours, which be takes under the Sun?</hi> The total Sum amounts to this; <hi>Man is at his beſt Estate altogether Vanity.</hi>
+            </p>
+            <p>Now (you muſt know) that there is a threefold <hi>Vanity;</hi>
+            </p>
+            <p>Firſt, Of <hi>Creation.</hi>
+            </p>
+            <pb n="30" facs="tcp:109556:16"/>
+            <p> Secondly, Of <hi>Tranſgreſsion.</hi>
+            </p>
+            <p>Thirdly, Of <hi>Condition.</hi>
+            </p>
+            <p>
+               <hi>Man</hi> is <hi>Vanity</hi> in all theſe three Reſpects.</p>
+            <p>Firſt, In the Excellency of his <hi>Creation,</hi> he ſeems not to be void of <hi>Vanity</hi> for as his Age is nothing be<g ref="char:EOLhyphen"/>fore the <hi>Lord:</hi> why ſo man himſelf in his Innocency, compared with <hi>God</hi> his Creator, is nothing but <hi>Vani<g ref="char:EOLhyphen"/>ty;</hi> Job iv. 18. <hi>Behold, he put no Truſt in his Servants, and his Angels he charged with Folly.</hi> And if <hi>Cherubins,</hi> and <hi>Seraphins</hi> do cover their Faces, as being imperfect, and <hi>vain, compared</hi> with him, how much more may <hi>Vani<g ref="char:EOLhyphen"/>ty</hi> be attributed to us, who dwell in Houſes of <hi>Clay?</hi> whoſe Foundation is in the <hi>Duſt,</hi> which are cruſh<g ref="char:EOLhyphen"/>ed before the <hi>Month?</hi> Job. iv. 13.</p>
+            <p>But then again Secondly, If man be <hi>Vanity</hi> in his <hi>Creation</hi> compared with <hi>God,</hi> then he has brought up<g ref="char:EOLhyphen"/>on him a ſecond, and worſe kind of <hi>vanity</hi> by his Fall. A <hi>vanity</hi> of <hi>Tranſgreſsion</hi> and <hi>Guilt;</hi> by this, Man (who was Heir apparent of the <hi>World</hi> was exil'd <hi>Pa<g ref="char:EOLhyphen"/>radiſe</hi> his Glory becomes cloathed with <hi>Ignominie,</hi> and <hi>Shame.</hi> And this brings a third <hi>vanity</hi> after it; a <hi>vani<g ref="char:EOLhyphen"/>ty</hi> of <hi>Condition,</hi> from which none can be exempted; e<g ref="char:EOLhyphen"/>very man living is <hi>vanity,</hi> whether <hi>Sinner,</hi> or <hi>Saint,</hi> as long as he retains the Appellation of a man, ſo long he is <hi>Inheritour</hi> of <hi>vanity,</hi> whoſe frame is a brittle as <hi>Glaſs,</hi> whoſe Name is a ſoon forgot, as a <hi>Tale,</hi> that is <hi>told: Let the Heathen know</hi> (ſays <hi>David</hi>) Pſa. ix. 20.
+<pb n="31" facs="tcp:109556:16"/>
+               <hi>that they are but men.</hi> But <hi>Men!</hi> Why? is that ſo ſlight a matter? what is <hi>Man? Jeremiah</hi> tells us <hi>Ch.</hi> xxii. 29. <hi>Earth, Earth, Earth;</hi> Every man, that lives upon the <hi>Earth,</hi> is but a piece of that <hi>Earth,</hi> on which he live: <hi>Earth</hi> by <hi>Creation, Earth</hi> by <hi>Converſation,</hi> and <hi>Earth</hi> by <hi>Diſſolution</hi> into <hi>Duſt. Man never continues in one Stay, but vaniſhes as a Shadow.</hi> Job xiv. 2.</p>
+            <p>In a word, that ſo I may paſs to a ſhort <hi>Application;</hi> As <hi>Holineſs</hi> to the <hi>Lord</hi> was engraven upon <hi>Aaron</hi>'s <hi>Breaſt-Plate,</hi> Exod. xxviii. 36. ſo upon every man's <hi>Forehead</hi> may be written this <hi>Motto; Man at his beſt Eſtate is altogether vanity.</hi>
+            </p>
+            <p>Give me leave to derive from this two <hi>Obſervations,</hi> theſe few <hi>Practical Improvements,</hi> and I have done.</p>
+            <p>And firſt, Is it ſo, <hi>that every man at his beſt,</hi> &amp;c. Then this may inſtruct us not to truſt in man. <hi>Pſal.</hi> cxlvi. 3, 4. <hi>Put not your truſt in Princes nor in the Son of man, in whom there is no help, his breath goes forth, he re<g ref="char:EOLhyphen"/>turns to the Earth, in that very day his thoughts periſh.</hi> Truſt not therefore in the greateſt man, <hi>vanity</hi> will deceive you and every man is <hi>vanity.</hi>
+            </p>
+            <p>
+               <hi>Every man,</hi> ſaies the Pſalmiſt, <hi>walks in a vain ſhew:</hi> there is a ſhew of this, and that, and the other thing, a promiſe of it, but it is a vain Shew; 'tis but like a Pageant, which feeds the Eye, or delights the Pancy, or pleaſes the Far, but it paſſes away, and leaves you as Empty as before. <hi>Every man at his beſt Eſtate is alto<g ref="char:EOLhyphen"/>gether
+<pb n="32" facs="tcp:109556:17"/>vanity;</hi> not only in his <hi>Afflictions,</hi> and in his <hi>Loſses,</hi> in his <hi>Troubles,</hi> and in his <hi>Sorrows,</hi> but take a man in the Height, and Perfection, and accompliſhment of all <hi>Creature Comforts,</hi> take the Creme, the Pith, the Mar<g ref="char:EOLhyphen"/>row, the Sweetneſs of all, extract a <hi>Quinteſsence</hi> of all, that can be had in the <hi>Creatures,</hi> and alls but <hi>vanity.</hi> If therefore the <hi>Creature</hi> be ſo vain, and the Dayes of man be Vanity? Oh! let us ſet our Eys, and Hearts upon that, which is <hi>Something;</hi> upon that, which is <hi>All,</hi> upon that, which is <hi>Laſting;</hi> upon that, which is <hi>Everlaſting;</hi> upon that, which is <hi>Truth</hi> it ſelf, and will not, nay cannot <hi>deceive</hi> us; upon that, which will be more in <hi>Fruition,</hi> then ever it was in <hi>Expectation.</hi> Oh! let us not truſt in lying <hi>vanities;</hi> but in the Ever-living, and Never-failing <hi>God.</hi> Man will be truſting in ſome-what, and he is ſo forward to truſt in <hi>vanity</hi> (which indeed is nothing) that it is the hard<g ref="char:EOLhyphen"/>eſt thing in the World to take him off. We cannot preſs our ſelves, or others too much to truſt in <hi>God;</hi> and we cannot Repreſs them enough from truſting <hi>vanity.</hi> We ſay, <q>Such a man has deceived me once, but he ſhall not deceive me a ſecond time.</q> Why ſhould we be ſo willing to be deceived a Thouſand times with <hi>vanities:</hi> God never deceived, or failed any man that ever truſted in him; <hi>Pſal.</hi> ix. 10. Oh! therefore let this perſwade our Hearts to truſt in <hi>God;</hi> we can<g ref="char:EOLhyphen"/>not truſt him too much, or the Creature too little. If
+<pb n="33" facs="tcp:109556:17"/>we make the Creature our <hi>Staff,</hi> it will be our <hi>Scourge;</hi> if we lean upon it as our <hi>Rock,</hi> it will run into our Hands as a <hi>broken Reed:</hi> The beſt way to keep up our <hi>Comforts</hi> in the <hi>Creature,</hi> is to keep our <hi>Diſtance</hi> from the <hi>Creature:</hi> and let me tell you this; That they ſhall always finde moſt <hi>Comfort</hi> from the World, who live furtheſt off it, and expect leaſt from it. God is <hi>good,</hi> and the more we truſt in him, the <hi>better</hi> he will be to us; nay, he will not be <hi>good</hi> to us at all, unleſs we <hi>truſt</hi> him; <hi>Trust not therefore in man,</hi> that is <hi>inconſtant, changeable, mor<g ref="char:EOLhyphen"/>tal, vain: Rely</hi> not on him, he's a <hi>broken Reed;</hi> but <hi>trust</hi> in <hi>God,</hi> for he is the <hi>help</hi> of our <hi>Countenance,</hi> and our <hi>God. It is better to truſt in the Lord, then to put any Confidence in man. Yea, 'tis better to truſt in the Lord, then to put any Confidence in Princes.</hi> Pſal. cxviii. 8, 9. But bleſſed is the man that makes the <hi>Lord</hi> his <hi>Truſt;</hi> and they that know thy <hi>Name,</hi> will put their <hi>Truſt</hi> in thee, for thou <hi>Lord</hi> never faileſt them that ſeek thee. That's the firſt Uſe, <hi>Truſt not in man, which is but vanity.</hi>
+            </p>
+            <p>Again, Secondly, Since <hi>Every man at his beſt Eſtate is,</hi> &amp;c. Then this may check our Pride, and pull down our proud <hi>Spirits:</hi> what worth or Excel<g ref="char:EOLhyphen"/>lency is in any man to cauſe him to be blown up as a Bladder? why is <hi>Earth</hi> and <hi>Aſhes</hi> proud? See<g ref="char:EOLhyphen"/>ing
+<pb n="34" facs="tcp:109556:18"/>that when a man dyes he's but Heir of <hi>Worms</hi> a Companion of crawling <hi>Worms.</hi> The <hi>Unicorn</hi> may boaſt of his <hi>Horn,</hi> which medicineth the poyſoned Streams, the <hi>Bezoar</hi> of his <hi>pretious Stone</hi> the <hi>Bever</hi> of his <hi>Skin,</hi> the <hi>Panther</hi> of his <hi>Colours,</hi> the <hi>Pink</hi> of its <hi>Sweetneſs,</hi> the <hi>Tulip</hi> of its <hi>Beauty,</hi> and many o<g ref="char:EOLhyphen"/>ther Creatures of ſome ſingular <hi>Excellency,</hi> but <hi>man,</hi> vain <hi>man!</hi> muſhroom <hi>man!</hi> has nothing of his own to animate Pride, but rather ſhould be exceedingly humbled for his manifold <hi>Wants,</hi> and exceeding <hi>Va<g ref="char:EOLhyphen"/>nities.</hi> If a <hi>Beggar</hi> may be proud of his Rags or a <hi>Lazar</hi> of his Soars, then have we cauſe to be proud, not elſe: That's a Second.</p>
+            <p>Thirdly, Seeing <hi>Man at his best Eſtate,</hi> &amp;c why then this convinces, and ſharply reproves the Folly, and madneſs of <hi>Worldlings,</hi> who trifle away their pre<g ref="char:EOLhyphen"/>tious time in loathſome <hi>Vanities;</hi> like Swine, that root up Beds of Flowers, and ſweet Roſes, but wal<g ref="char:EOLhyphen"/>low in the Mire: <hi>Oh! ye Sons of Men, how long will ye love Vanity?</hi> Pſal. iv. 2. <hi>Why walk ye after vanity? and draw Iniquity with Cords of vanity!</hi> Iſa. v. 18. Why do ye take pleaſure in the <hi>vanity</hi> of <hi>Wickedneſs,</hi> think<g ref="char:EOLhyphen"/>ing it <hi>vain,</hi> not to be <hi>vain</hi> in your Converſations? Oh! how <hi>ſweet</hi> ſoever it ſeems to you for the preſent, I muſt tell you, 'twill prove very <hi>diſtructful</hi> in the End: Oh! drink no longer of the pleaſant Rivers
+<pb n="35" facs="tcp:109556:18"/>of <hi>Damaſcus,</hi> but on the wholſom ſtreams of <hi>Jor<g ref="char:EOLhyphen"/>dan?</hi> Do not affect <hi>vain</hi> Company, or <hi>vain,</hi> and Idle perſons, who have not the fear of God before their Eys; <hi>who flatter with their lips, and do ſpeak with a double Heart,</hi> Pſal. xii. 2. <hi>Whoſe mouth speaketh Vanity, and their Right-hand is a Right-hand of falſhood;</hi> Pſal. cxliv. 8. Oh! do not ſquander away your pretious hours in <hi>Vanities,</hi> but know, that whoſo<g ref="char:EOLhyphen"/>ever travels with <hi>Vanity</hi> ſhall bring forth <hi>iniquitie,</hi> which late Repentance muſt either drown, or damnation Nurſe.</p>
+            <p>And laſtly, ſeeing <hi>that every man,</hi> &amp;c. Why then learn from hence to condemn thy vain life, with all its <hi>Vanities,</hi> and to ſeek for a new, and better life, where <hi>vanity</hi> is not admitted. Oh! let us thirſt after <hi>Heaven,</hi> after <hi>Chriſt; let our life be hid with Chriſt in God, that ſo when Christ ſhall appear, we may alſo,</hi> &amp;c. Whilſt we live let's live by the <hi>Faith</hi> of the Son of <hi>God,</hi> that ſo when we dy we may dy in the <hi>Faith,</hi> and <hi>favour</hi> of <hi>Chriſt;</hi> let our Converſation be in <hi>Heaven</hi> whilſt we are here up<g ref="char:EOLhyphen"/>on <hi>Earth,</hi> let's Meditate continually on <hi>Chriſt,</hi> and his Merits, our <hi>Redemption,</hi> and the Glorious in<g ref="char:EOLhyphen"/>heritance he has Purchaſed for us, and let us ſay, Thou, O <hi>Lord Jeſus,</hi> art our <hi>Hope,</hi> and our <hi>Stay;</hi> ſee<g ref="char:EOLhyphen"/>ing thou haſt given us the <hi>World,</hi> which we Con<g ref="char:EOLhyphen"/>temn,
+<pb n="36" facs="tcp:109556:19"/>give us thy <hi>ſelf</hi> whom our Souls deſire, let others ſtrive for <hi>Temporal</hi> Kingdoms, but let us ſtrive for <hi>Eternal;</hi> let others heap up <hi>Riches,</hi> but let our hearts Hunger and Thirſt after <hi>Righteouſneſs;</hi> let others Gape after the <hi>vanities</hi> of this World, but let us pant, and breath, and gape after <hi>Chriſt,</hi> deſire to be deſolved, that we may be ever with the <hi>Lord,</hi> whilſt we live here one Earth, let us Pray alſo that the life of <hi>Jeſus</hi> may be made manifeſt in our Mortal Fleſh; and then come <hi>Lord Jeſus,</hi> come quickly. Though our lives here be but as a <hi>ſpan-long,</hi> and attended with as many Miſeries, as there be Stars in the firmament, and <hi>vanities,</hi> as ſand by the Sea-ſhore; Yet after this life is ended, we ſhall have a building not made with hands but <hi>Eternal</hi> in the Heavens, though we now for a time hang up our Harpes by the Rivers of <hi>Babylon,</hi> and weep for the Floods of <hi>vanity,</hi> that are rea<g ref="char:EOLhyphen"/>dy to over-whelm us in our Captivity; Yet after a while we ſhall be brought home with Triumph unto a Land Flowing with <hi>Milk,</hi> and <hi>Honey,</hi> to <hi>life</hi> without <hi>Death,</hi> to Days without end, to ſuch Mu<g ref="char:EOLhyphen"/>fick as we never heard before, by a Quite of An<g ref="char:EOLhyphen"/>gels, to a World without <hi>Vanity;</hi> to a Condition without alteration, and to Eternal Glory, which Ey ha's not ſeen, nor Ear heard, &amp;c. Which he
+<pb n="37" facs="tcp:109556:19"/>will give us that has purcha'ſt for us by his own moſt pretious Blood, to whom with the Father, <hi>&amp;c.</hi>
+            </p>
+            <p>So much for the <hi>Text,</hi> I come now to the <hi>Occaſion.</hi> Sory I am to be an Actour in this mornfull Scene.</p>
+            <p>For truly here I can ſcarce ſpeak for grief, or give you a Funeral <hi>Eulogy</hi> of this Deceaſed Lady, whoſe liveleſs Duſt lies here before us, unleſs inſtead of ſtrewing of Flowers I bedew her Hearſe with Tears, and pour out my matter in a Sorowfull, and Dole<g ref="char:EOLhyphen"/>full Complaint of our loſs;</p>
+            <q>
+               <l>Curie leves loquun ur; Ingentes Stupent.</l>
+            </q>
+            <p>I could willingly (I confeſs) now give ſcope to mine, and your Paſſion, that we might ſit down a while in ſilence and onely by the <hi>Language</hi> of our <hi>Tears</hi> ſpeak the ſence of our <hi>Loſs.</hi> But then (I con<g ref="char:EOLhyphen"/>ceive) I ſhould be Injurious to this Solemn, and Sorrowfull <hi>Aſſembly,</hi> to God's <hi>Honour,</hi> our Friend's <hi>Memory,</hi> and others <hi>Profit:</hi> ſince by paying the <hi>Tribute</hi> of <hi>Praiſe</hi> to God's dear Servants, we advance God's <hi>Glory,</hi> and Perpetuate their <hi>Remembrance,</hi> and add Spurs to the Pious endeavours of thoſe, who ſurvive.</p>
+            <p>I could ſpeak much (having known her from a <hi>Childe</hi>) to the <hi>Glory</hi> of God's <hi>Rich Grace,</hi> in the Embalming her <hi>Name</hi> with a pretious <hi>Memory,</hi> but I ſhall not need to Expatiate my ſelf in her juſt,
+<pb n="38" facs="tcp:109556:20"/>and Due <hi>Character.</hi> But ſome things, that were very <hi>Remarkable</hi> in her, towards her latter <hi>End,</hi> I muſt not <hi>Omit.</hi> Give me leave therefore for your <hi>Imitation,</hi> to break this <hi>Alabaſter</hi> box of pretious <hi>Oyntment,</hi> and to pour it forth upon <hi>you,</hi> that the Sa<g ref="char:EOLhyphen"/>vour thereof may fill the whole houſe of God with a Sweet <hi>Perfume,</hi> and that ſuch an <hi>Example,</hi> and <hi>Precedent</hi> of <hi>Piety,</hi> may incite, and Encourage you to remember your <hi>Creatour</hi> in the Daies of your youth, before the <hi>Evil Day</hi> of your <hi>Death</hi> comes? Indeed I know the <hi>Applauſe,</hi> and <hi>Welcom,</hi> that the <hi>Saints,</hi> and <hi>Angels</hi> have given her in <hi>Heaven;</hi> and the Bleſſed <hi>Euges</hi> that the <hi>Authour,</hi> and <hi>Finiſher</hi> of our <hi>Faith</hi> has now Recieved her into theſe.</p>
+            <p>Theſe are the true, and full <hi>Commendations,</hi> that he <hi>Soul</hi> now reſts in. Onely (this we muſt know) that as the <hi>Death</hi> of this <hi>Illuſtrious,</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>ertuous Perſon</hi> is in <hi>God</hi>'s <hi>Eyes,</hi> ſo in ours alſo, it ought to be <hi>Honourable,</hi> and <hi>Pretious.</hi>
+            </p>
+            <p>And becauſe Saint <hi>Bernard</hi>'s Speech is moſt true; <hi>Pretioſa Mors Sanctorum quam commendat vita pretio<g ref="char:EOLhyphen"/>ſa;</hi> A <hi>pious Life</hi> makes a <hi>pretious Death.</hi> I might trace this young <hi>Lady</hi> through her whole <hi>Life,</hi> and ob<g ref="char:EOLhyphen"/>ſerve many <hi>remarkable.</hi> Paſſages in it, by which, as by ſo many Steps, and Paces, ſhe walked on daily to the Attainment of this right <hi>Chriſtian,</hi> and <hi>Com<g ref="char:EOLhyphen"/>fortable</hi> Death.</p>
+            <pb n="39" facs="tcp:109556:20"/>
+            <p> Firſt, For her <hi>Birth,</hi> and <hi>Parentage;</hi> twas of good <hi>Note</hi> and <hi>Eſteem;</hi> being born at <hi>Stoke</hi> in <hi>Lin<g ref="char:EOLhyphen"/>colnſhire,</hi> and deſcended from an <hi>Antient Family,</hi> having <hi>Grave, Ingenuous,</hi> and <hi>Religious Parents; Honourable, Noble,</hi> and <hi>Generous Perſons</hi> to her <hi>Re<g ref="char:EOLhyphen"/>lutions;</hi> and though (I confeſs) the <hi>Dignity</hi> of <hi>Birth,</hi> if alone, and unattended with moral <hi>Accompliſh<g ref="char:EOLhyphen"/>ments,</hi> be but a cold, and ſlender <hi>Commendation;</hi>
+            </p>
+            <q>
+               <l>Et genus, &amp; proavos, &amp; quae non fecimus ipſi,</l>
+               <l>Vix, <hi>&amp;c.</hi>
+               </l>
+            </q>
+            <p>Yet this, when it ſtands in <hi>Conjunction</hi> with <hi>Virtue,</hi> it ſets a <hi>Price,</hi> and <hi>Luſtre</hi> upon it, 'tis <hi>Splendor Virtutis;</hi> it caſts a Varniſh upon <hi>Virtue</hi> it ſelf, and makes it more Conſpicuous.</p>
+            <p>But Secondly, If you ſurveigh <hi>Her</hi> in the <hi>Moral,</hi> and <hi>Practick</hi> Part of <hi>Her</hi> Life, you'd finde many things in it very obſervable; Take <hi>Her</hi> in <hi>Her</hi> fa<g ref="char:EOLhyphen"/>miliar <hi>Converſation,</hi> and ſo <hi>ſhe</hi> was a <hi>Loving, Faith<g ref="char:EOLhyphen"/>full,</hi> and <hi>Conſtant Friend; thankfull</hi> for any <hi>Kindneſs,</hi> and <hi>ſtudious</hi> to <hi>requite it;</hi> She was wont to <hi>extenuate,</hi> not to <hi>aggravate</hi> any <hi>Injury,</hi> or <hi>Unkindneſs</hi> offered <hi>Her, ſhe</hi> would not <hi>Scintillam in Flammam, nec feſtucam in Trabem enatare;</hi> as Saint <hi>Auguſtine</hi> ſpeaks of ſome <hi>Contentious</hi> Perſons: In a word, in all <hi>her Deport<g ref="char:EOLhyphen"/>ment</hi> (as ever I perceived) <hi>ſhe</hi> was <hi>Regular,</hi> and <hi>Just; Affable,</hi> and <hi>Virtuous</hi> to all.</p>
+            <pb n="40" facs="tcp:109556:21" rendition="simple:additions"/>
+            <p> Thirdly, Take <hi>Her,</hi> as to <hi>Her Relations,</hi> and ſo ſhe was an <hi>obedient Childe</hi> to <hi>her Parents,</hi> a loving <hi>Siſter</hi> to <hi>her Brethren;</hi> and an indulgent, and kinde <hi>Wife</hi> to <hi>her Husband:</hi> and though it pleaſed <hi>Almigh<g ref="char:EOLhyphen"/>ty God</hi> to <hi>divorce</hi> them by <hi>Death</hi> almoſt as ſoon as they were <hi>married;</hi> yet ſhe ſhewed her <hi>Affection</hi> to the laſt, for when I asked <hi>Her,</hi> what ſhe would leave her <hi>Husband</hi> as <hi>Memorial</hi> of her <hi>true Love,</hi> (amongſt thoſe ſmall <hi>Legacies, ſhe</hi> had Power to diſpoſe off,) <hi>ſhe</hi> replyed; <q>She would leave him her <hi>Hearty Prayers,</hi> that <hi>God</hi> would bleſs him, and direct him in all his <hi>Ways;</hi>
+               </q> And I hope he will live to <hi>reap</hi> the <hi>Benefit</hi> of <hi>her Prayers:</hi> The beſt <hi>Legacy</hi> cer<g ref="char:EOLhyphen"/>tainly, that a good <hi>Wife</hi> can leave <hi>her Husband.</hi>
+            </p>
+            <p>Theſe, I know (you will all grant) were <hi>live<g ref="char:EOLhyphen"/>ly Virtues</hi> in the <hi>Sphere</hi> of <hi>Morality;</hi> but yet there were two <hi>Graces</hi> more remarkable in <hi>Her,</hi> of an higher <hi>Pitch,</hi> more <hi>Divine,</hi> and <hi>Spiritual,</hi> more im<g ref="char:EOLhyphen"/>mediate Fruits of <hi>her Christian Religion: viz.</hi> her <hi>Charity,</hi> and her <hi>Piety;</hi> her <hi>Compaſsion</hi> to the <hi>Poor</hi> and her <hi>Devotion</hi> to her <hi>God.</hi>
+            </p>
+            <p>Firſt, for her <hi>Charity</hi> to the <hi>Poor; She</hi> was not only a <hi>Friend,</hi> but a <hi>Mother;</hi> Her Bowels of <hi>Com<g ref="char:EOLhyphen"/>paſsion</hi> were enlarged toward them, not onely in her <hi>Life,</hi> but at her <hi>Death:</hi> for, to my Knowledge, ſhe has left to two <hi>Pariſhes</hi> in <hi>Lincolnſhire</hi> five pounds
+<pb n="41" facs="tcp:109556:21"/>a piece to be diſtributed to the <hi>Poor:</hi> and five pounds to the <hi>Poor</hi> of this <hi>Pariſh,</hi> wherein ſhe is to be interred, and to the <hi>Miniſters</hi> in theſe three Places, twenty Shil<g ref="char:EOLhyphen"/>lings a piece, as a Token of her <hi>Affection</hi> for them: The Age we live in, though it has the <hi>Lamp</hi> of <hi>Profeſsi<g ref="char:EOLhyphen"/>on,</hi> yet (God knows) li<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tle of this <hi>Oyl</hi> of <hi>Charity:</hi> Ma<g ref="char:EOLhyphen"/>ny though they have floutriſhing <hi>Eſtates,</hi> yet they have withered <hi>Hands,</hi> and cannot ſtretch them out to good <hi>Uſes;</hi> this <hi>Lady</hi> had but a ſmall matter left in her Hands to <hi>diſpoſe</hi> of, and ſhe left it <hi>freely</hi> to thoſe, that had moſt need. She had indeed a <hi>free,</hi> and <hi>noble Soul</hi> to all; but moſt <hi>generous,</hi> and <hi>bountiful</hi> to the <hi>Poor:</hi> what ſhould I ſay of <hi>Her?</hi> She ſowed <hi>plentifully,</hi> and ſhe has reaped <hi>plentifully,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, as Saint <hi>Baſil</hi> ſpeaks; ſhe was <hi>merciful,</hi> and no Queſtion, but ſhe has obtained <hi>Mercy.</hi>
+            </p>
+            <p>Secondly, for her <hi>Piety:</hi> Though it was diffuſed in a conſtant Tenour through the whole Courſe of her <hi>Life;</hi> yet it appear'd moſt <hi>glorious</hi> near her <hi>Death,</hi> then ſhe bitterly bewail'd the pretious time ſhe had ſpent in <hi>worldly Vanities,</hi> in <hi>unneceſſary,</hi> and <hi>complemental Viſits;</hi> and ſhe ſaid, <q>If <hi>God</hi> ſhould lengthen out her Days, the <hi>World</hi> ſhould ſee ſuch an <hi>Alteration,</hi> and <hi>Change</hi> in <hi>her</hi>! how ſhe would endeavour to <hi>redeem</hi> that time ſhe had ſo <hi>mispent</hi> by a <hi>double Diligence</hi> in the <hi>Practice</hi> of <hi>Holineſs.</hi>
+               </q> When I preſt <hi>her</hi> to finiſh that great work of <hi>Repentance,</hi> and <hi>Sorrow</hi> for <hi>Sin,</hi> before
+<pb n="42" facs="tcp:109556:22" rendition="simple:additions"/>ſhe <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Courſe <gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> telling <hi>her</hi> that 'twas <hi>Sin,</hi> that made <hi>Death</hi> bitter, and until that <hi>Sting</hi> be taken out by true <hi>Repentance,</hi> and <hi>Faith</hi> in <hi>Chriſt</hi>'s <hi>Merits,</hi> we can<g ref="char:EOLhyphen"/>not <hi>finiſh <gap reason="illegible: blotted" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Courſe with Joy<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Lord!</hi> 'twas admirable to me to ſee how low ſhe ſunk her <hi>Spirits,</hi> humbling <hi>her Soul</hi> to the <hi>Duſt</hi> by an <hi>hearty Confeſsion;</hi> loathing the went thoughts of <hi>her</hi> former <hi>Tranſgreſsions;</hi> abhorring <hi>her</hi> ſelf for all <hi>her Sins</hi>: and ſaying, with that bleſſed <hi>Martyr,</hi> in the Point of Juſtification, <hi>None but Chriſt, none but Chriſt;</hi> throwing <hi>her</hi> ſelf into his <hi>Arms</hi> by a lively <hi>Faith:</hi> acknowledging no <hi>Name</hi> under <hi>Heaven</hi> by which ſhe expected <hi>Salvation,</hi> but onely <hi>in,</hi> and <hi>through Jeſus Chriſt</hi> our <hi>Lord Sublimis Patria ſed humilis via, Hea<g ref="char:EOLhyphen"/>ven</hi> is <hi>high,</hi> but the Paſſage to it is <hi>low:</hi> we muſt ſtoop <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> our <hi>Death,</hi> by an humble <hi>Confeſsion</hi> of our own <hi>
+                  <g ref="char:V">Ʋ</g>nmorthineſs,</hi> and the <hi>Worthineſs</hi> of <hi>Chriſt,</hi> or we ſhall never come thither. <hi>Non aeſtimator meriti ſed veniae lar<g ref="char:EOLhyphen"/>gi<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> when all is done will prove the beſt <hi>Divinity,</hi> and muſt for <hi>dying Perſons</hi> and (I'le aſſure you) our <hi>deceaſed Siſter</hi> had learn'd this <hi>Leſſon</hi> very well; for I never ſaw, (if I can rightly judge) a <hi>Soul</hi> more truly <hi>penitent,</hi> and <hi>
+                  <gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ble,</hi> then <hi>hers</hi> was. The time ſhe lay upon her <hi>ſick <gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> was not very <hi>long,</hi> but very <hi>ſharp,</hi> and (as I am in<g ref="char:EOLhyphen"/>formed) in the time of her Sickneſs, ſo <hi>patient,</hi> ſo <hi>con<g ref="char:EOLhyphen"/>tented,</hi> ſo <hi>willing</hi> to be at <hi>God</hi>'s <hi>Diſpoſe,</hi> either for <hi>Life,</hi> or <hi>Death</hi> ſo full of <hi>ſweat, holy,</hi> and <hi>heavenly</hi> Inſtructions, Exhortations, Counſels to <hi>her</hi> Relations, Friends, <hi>and</hi>
+               <pb n="43" facs="tcp:109556:22"/>Servants; lifting up her <hi>Soul,</hi> Night, and Day in <hi>Prayers,</hi> and devout <hi>Ejaculations,</hi> for <hi>Mercy</hi> upon <hi>her</hi> own <hi>Soul,</hi> and for all, that were about <hi>her.</hi>
+            </p>
+            <p>Not long before ſhe <hi>dyed,</hi> ſhe ſent for mer and after I had prayed by her, ſhe intreated me to <hi>adminiſter</hi> the <hi>holy Sacrament</hi> to <hi>her,</hi> which I could not deny; and if you had ſeen, but with what <hi>Devotion</hi> ſhe hung<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>d, and thirſted after this <hi>her</hi> laſt <hi>Viaticum,</hi> with what Fervency of <hi>Spirit</hi> ſhe received it; you would never forget her: 'twas the laſt <hi>Manna</hi> ſhe fed upon on this ſide <hi>Jordan,</hi> now ſhe is in the <hi>Land of Promiſe <gap reason="illegible: blotted" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> cor<g ref="char:EOLhyphen"/>tice Sacramenti, ſed adipe frumenti ſagina<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>;</hi> Now she is at the Well-Head, and Fountain of all <hi>Joy,</hi> and <hi>Bliſs.</hi>
+            </p>
+            <p>Thus <hi>ſhe</hi> both <hi>liv'd,</hi> and <hi>dyed</hi> like in <hi>Lamb, liv'd</hi> meekly, and <hi>dyed</hi> quietly <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>onate <hi>Husband,</hi> or loving <hi>Allies,</hi> 
+               <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>inordinately;</hi> ſhe <hi>dyed</hi> young indeed, <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> her time, (her Days were but as an <hi>hand <gap reason="illegible: blotted" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </hi> cauſe not before ſhe was ready for <hi>Death.</hi> She was cut down by the ſickle of <hi>Death,</hi> I confeſs betimes, in <hi>her</hi> beſt Eſtate, I, but yet ſhe was not <hi>cut down</hi> before ſhe was <hi>ripe</hi> for the <hi>Harveſt, Youth,</hi> and <hi>flouriſhing Days</hi> (you ſee) cannot privilege any from the <hi>Grave,</hi> the Beauty of <hi>Rachel</hi> will not keep her from the <hi>Duſt:</hi> neither is it <hi>Parentage,</hi> or <hi>Wealth,</hi> can put <hi>Death</hi> out of <hi>Commiſsion: Riches</hi> avail not in the day of <hi>Death,</hi> no, nor <hi>Holineſs,</hi> nor <hi>Piety</hi> can deliver any from the
+<pb n="44" facs="tcp:109556:23"/>
+               <hi>Grave.</hi> It preſerves indeed from <hi>eternal Death,</hi> but not a <hi>Temporal.</hi>
+            </p>
+            <p>We ſee this by dayly Experience; I need not expati<g ref="char:EOLhyphen"/>ate my ſelf on this <hi>Theme.</hi> Our dear <hi>Friend,</hi> and <hi>Siſter</hi> is now at Reſt.</p>
+            <p>And in that <hi>bleſsed Reſt</hi> we ſhall now leave <hi>her,</hi> aſ<g ref="char:EOLhyphen"/>ſuring our ſelves, that ſhe dyed in the <hi>Favour</hi> of <hi>God,</hi> in the <hi>Faith</hi> of <hi>Chriſt,</hi> in the <hi>Peace</hi> of a <hi>good Con<g ref="char:EOLhyphen"/>ſcience.</hi>
+            </p>
+            <p>
+               <q>Nothing now remains, but that we render all humble thanks to Almighty God, for this ſo bleſ<g ref="char:EOLhyphen"/>ſed a Departure of his Faithful Servant: Beſeech<g ref="char:EOLhyphen"/>ing him to grant, that when the Hour of our Vi<g ref="char:EOLhyphen"/>ſitation comes upon us, we may be found of him with Peace, appear before him with Comfort, and may be received with Joy into thoſe Heavenly Manſions, which our Bleſſed Saviour has purcha<g ref="char:EOLhyphen"/>ſed for us.</q>
+            </p>
+            <closer>AMEN, <hi>So be it.</hi>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
